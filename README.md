@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/GabrielSilvaAlmeida/Gabriel/blob/main/anime.gif"  />
+<img align="right" height="150" src="https://github.com/GabrielSilvaAlmeida/GabrielSilvaAlmeida/blob/main/anime.gif"  />
 
 ###
 
