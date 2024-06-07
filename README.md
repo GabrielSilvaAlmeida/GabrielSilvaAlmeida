@@ -11,7 +11,7 @@
 </div>
 
 ###
-<h2>Olá, Me Chamo Gabriel Engenheiro de Software!</h2>
+<h2>Olá, Me Chamo Gabriel. Atuo Como Engenheiro de Software Full-Stack!</h2>
 <p>Sou amante de jogos, animes, e programação. Tenho uma paixão por desenvolvimento de jogos e <br>
   isso me fez entrar no mercado de técnologia na área de desenvolvimento de software.</p>
 
