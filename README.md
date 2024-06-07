@@ -11,6 +11,13 @@
 </div>
 
 ###
+<h2>Olá! Me Chamo Gabriel Engenheiro de Software</h2>
+<p>Sou amante de jogos, animes, e programação. Tenho uma paixão por desenvolvimento de jogos e <br>
+  isso me fez entrar no mercado de técnologia na área de desenvolvimento de software.</p>
+
+<h2>Minha história nos estudos!</h2>
+<p>Estou me graduando em Engenharia de software na Anhanguera Educacional termino do curso é 90/2025</p>
+<p>Estou fazendo curso de 360h presenciais de desenvolvedor full-stack no Senac/RJ</p>
 
 <img align="right" height="150" src="https://github.com/GabrielSilvaAlmeida/GabrielSilvaAlmeida/blob/main/asuka.gif"  />
 
