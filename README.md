@@ -17,7 +17,10 @@
 
 <h2>Minha história nos estudos!</h2>
 <p>Estou me graduando em Engenharia de software na Anhanguera Educacional termino do curso é 09/2025.</p>
-<p>Estou fazendo curso de 360h presenciais de desenvolvedor full-stack no Senac/RJ.</p>
+<p>Estou me graduando também em Engenharia Elétrica na Estácio</p>
+<p> Tenho certificado de 360h presenciais de desenvolvedor full-stack no Senac/RJ.</p>
+<p> Certificado de Google Cloud Foundation no Senac/RJ.</p>
+<p> Certificado de Desenvolvedor pela ADA Santander Open Academy</p>
 
 <img align="right" height="150" src="https://github.com/GabrielSilvaAlmeida/GabrielSilvaAlmeida/blob/main/asuka.gif"  />
 
